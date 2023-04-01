@@ -2,10 +2,10 @@
 
 Dit is de repositorie voor PE2.
 
-Onder software staat: 
+Onder software branche staat: 
                       - Flowchart
                       - CubeIDE project
        
-Onder hardware staat:
+Onder hardware branche staat:
                       -Blokdiagrama
                       -Altium project
